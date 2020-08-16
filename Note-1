@@ -1,0 +1,19 @@
+1. get unity
+2. Unity Editor: Latest version
+
+Unity Start:
+
+1. Create a project
+2. Layout: Default
+
+main camera: Game object
+FPS: Frame per second
+
+Object Transform 
+Shortcuts: Q W E R T
+
+Sprite:
+
+A sprite is a 2D graphic object obtained from a bitmap image.
+We can move, rotate, scale and many other things.
+
